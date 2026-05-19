@@ -1,9 +1,9 @@
 # Compositional Transduction with Latent Analogies for Offline Goal-Conditioned Reinforcement Learning
 
-[![Python](https://img.shields.io/badge/Python-3.9-2A9D8F?style=flat-square&logo=python&logoColor=white)](https://www.python.org/downloads/release/python-390/)
-[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-2A9D8F?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![GitHub](https://img.shields.io/badge/GitHub-Code-2A9D8F?style=flat-square&logo=github&logoColor=white)](https://github.com/rllab-snu/CTA)
-[![Project Page](https://img.shields.io/badge/Project-Page-2A9D8F?style=flat-square)](https://rllab-snu.github.io/projects/CTA/)
+[![Python](https://img.shields.io/badge/Python-3.9-56B3A6?style=flat-square&logo=python&logoColor=white)](https://www.python.org/downloads/release/python-390/)
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-56B3A6?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-56B3A6?style=flat-square&logo=github&logoColor=white)](https://github.com/rllab-snu/CTA)
+[![Project Page](https://img.shields.io/badge/Project-Page-56B3A6?style=flat-square)](https://rllab-snu.github.io/projects/CTA/)
 
 * * *
 
