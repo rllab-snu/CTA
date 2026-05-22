@@ -7,7 +7,7 @@
 
 * * *
 
-Code for the paper "Compositional Transduction with Latent Analogies for Offline Goal-Conditioned Reinforcement Learning" (ICML 2026).
+Official code for the paper "Compositional Transduction with Latent Analogies for Offline Goal-Conditioned Reinforcement Learning" (ICML 2026).
 
 This repository includes the CTA implementation together with Dual-HIQL based baselines.
 
@@ -27,4 +27,4 @@ This repository includes the CTA implementation together with Dual-HIQL based ba
 
 ### Acknowledgements
 
-This repository builds on [OGBench](https://github.com/seohongpark/ogbench), and we also referred to [tmd-release](https://github.com/vivekmyers/tmd-release/tree/master) for repository presentation.
+This repository builds on [OGBench](https://github.com/seohongpark/ogbench), and we also referred to [tmd-release](https://github.com/vivekmyers/tmd-release/tree/master).
