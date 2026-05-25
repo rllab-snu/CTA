@@ -7,7 +7,7 @@
 
 * * *
 
-Official code for the paper "Compositional Transduction with Latent Analogies for Offline Goal-Conditioned Reinforcement Learning" (ICML 2026).
+Official code for the paper "[Compositional Transduction with Latent Analogies for Offline Goal-Conditioned Reinforcement Learning](https://arxiv.org/abs/2605.20609)" (ICML 2026).
 
 This repository includes the CTA implementation together with [dual goal representation](https://github.com/deepindermann/dual-goal-representations) based baselines.
 
